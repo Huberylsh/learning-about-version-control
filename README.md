@@ -1,3 +1,3 @@
 # Learning about Version Control
 Author: LI SHUHANG
-Solving merge conflicts takes conscious effort, but I can do it!
+Solving merge conflicts is soooooo hard!
